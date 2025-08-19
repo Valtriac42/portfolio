@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [https://premprakash.dev/](https://premprakash.dev/)
+Visit the live portfolio: [https://priyanshu.dev/](https://priyanshu.dev/)
 
 ## ✨ Features
 
@@ -122,18 +122,14 @@ portfolio/
 └── ...
 ```
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 📞 Contact
 
 **Prem Prakash Sharma**
-- Website: [premprakash.dev](https://premprakash.dev/)
-- Email: [premprakashsharma.dev@gmail.com](mailto:premprakashsharma.dev@gmail.com)
-- LinkedIn: [linkedin.com/in/premprakashsharma](https://www.linkedin.com/in/premprakashsharma/)
-- GitHub: [github.com/PremPrakashCodes](https://github.com/PremPrakashCodes)
-- Twitter: [twitter.com/premprakashdev](https://twitter.com/premprakashdev)
+<!-- - Website: [premprakash.dev](https://premprakash.dev/) -->
+- Email: [priyanshusharma42v@gmail.com](mailto:priyanshusharma42v@gmail.com)
+- LinkedIn: [linkedin.com/in/priyanshusharma42/](https://www.linkedin.com/in/priyanshusharma42/)
+- GitHub: [github.com/Valtriac42/](https://github.com/Valtriac42/)
+
 
 ## 🙏 Acknowledgments
 

@@ -26,22 +26,22 @@ export const experienceData = [
 export const socialLinks = [
   {
     label: "GitHub",
-    href: "https://github.com/PremPrakashCodes",
+    href: "https://github.com/Valtriac42/",
     icon: FaGithub,
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/premprakashsharma/",
+    href: "https://www.linkedin.com/in/priyanshusharma42/",
     icon: FaLinkedin,
   },
   {
     label: "Email",
-    href: "mailto:premprakashsharma.dev@gmail.com",
+    href: "priyanshusharma42v@gmail.com",
     icon: MdMail,
   },
   {
     label: "Twitter",
-    href: "https://twitter.com/premprakashdev",
+    href: "https://twitter.com/priyanshu42",
     icon: FaTwitter,
   },
 ] as const;
@@ -133,17 +133,17 @@ type EducationItem = {
 export const educationData: EducationItem[] = [
   {
     id: 1,
-    title: "Bachelor of Computer Applications",
-    institution: "Indira Gandhi National Open University",
-    duration: "2025 - 2028",
+    title: "Bachelor of Bachelor of Technology in Computer Science",
+    institution: "Abdul Kalam Technical University",
+    duration: "2021 - 2025",
     description:
       "Pursuing comprehensive studies in software development, algorithms, data structures, and modern programming paradigms with focus on practical application development.",
   },
   {
     id: 2,
     title: "Higher Secondary School",
-    institution: "Municipal College Rourkela",
-    duration: "2020 - 2022",
+    institution: "Mayo International School",
+    duration: "2020 - 2021",
     description: "Completed Science stream education with strong foundation in Physics, Chemistry, and Mathematics.",
   },
 ];
