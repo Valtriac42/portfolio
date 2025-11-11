@@ -22,24 +22,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Prem Prakash Sharma | Full-Stack Developer Portfolio",
-  description: "Portfolio website of Prem Prakash Sharma - Software Developer specializing in full-stack development with expertise in modern web technologies including React, Next.js, Node.js, and cloud services.",
-  keywords: ["Prem Prakash Sharma", "Full-Stack Developer", "React", "Next.js", "Node.js", "TypeScript", "Software Developer", "Web Development"],
-  authors: [{ name: "Prem Prakash Sharma" }],
-  creator: "Prem Prakash Sharma",
+  title: "Priyanshu Sharma | Full-Stack Developer Portfolio",
+  description: "Portfolio website of Priyanshu Sharma - Software Developer specializing in full-stack development with expertise in modern web technologies including React, Next.js, Node.js, and cloud services.",
+  keywords: ["Priyanshu Sharma", "Full-Stack Developer", "React", "Next.js", "Node.js", "TypeScript", "Software Developer", "Web Development"],
+  authors: [{ name: "Priyanshu Sharma" }],
+  creator: "Priyanshu Sharma",
   openGraph: {
-    title: "Prem Prakash Sharma | Full-Stack Developer Portfolio",
+    title: "Priyanshu Sharma | Full-Stack Developer Portfolio",
     description: "Software Developer specializing in full-stack development with expertise in modern web technologies.",
-    url: "https://premprakash.dev/",
-    siteName: "Prem Prakash Sharma Portfolio",
+    url: "https://github.com/Valtriac42/",
+    siteName: "Priyanshu Sharma Portfolio",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Prem Prakash Sharma | Full-Stack Developer Portfolio",
+    title: "Priyanshu Sharma | Full-Stack Developer Portfolio",
     description: "Software Developer specializing in full-stack development with expertise in modern web technologies.",
-    creator: "@premprakashdev",
+    creator: "@Priyanshu42v",
   },
   robots: {
     index: true,

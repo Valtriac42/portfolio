@@ -48,19 +48,27 @@ export const socialLinks = [
 
 export const projects = [
   {
-    title: "Payment Gateway Integration",
-    description: "Integration of multiple payment gateways using Next.js, TypeScript, and Tailwind CSS.",
-    tags: ["Next.js", "TypeScript", "Tailwind CSS", "Stripe", "PayPal", "Razorpay"],
-    github: "https://github.com/PremPrakashCodes/payment-gateways",
-    demo: "https://payment-gateways-demo.vercel.app",
+    title: "RealTime Whiteboard Sharing App",
+    description: "A real-time whiteboard built with React, Socket.IO, and Node.js. Users can share a room and view the presenter's live drawing updates.",
+    tags: ["Node.js", "Express.js", "Socket.IO", "React", "TailwindCSS", "Socket.IO-client", "Socket.IO-client"],
+    github: "https://github.com/Valtriac42/Realtime-Whiteboard",
+    demo: "https://realtime-whiteboard-frontend.vercel.app/",
     icon: "💸",
   },
   {
     title: "Portfolio Website",
     description: "Responsive portfolio website with modern animations, dark theme, and optimized performance built with Next.js.",
     tags: ["Next.js", "Framer Motion", "Tailwind CSS", "TypeScript", "Vercel"],
-    github: "https://github.com/PremPrakashCodes/portfolio",
-    demo: "https://premprakash.dev/",
+    github: "https://github.com/Valtriac42/portfolio",
+    demo: "https://github.com/Valtriac42/",
+    icon: "🌟",
+  },
+  {
+    title: "Portfolio Website",
+    description: "Responsive portfolio website with modern animations, dark theme, and optimized performance built with Next.js.",
+    tags: ["Next.js", "Framer Motion", "Tailwind CSS", "TypeScript", "Vercel"],
+    github: "https://github.com/Valtriac42/portfolio",
+    demo: "https://github.com/Valtriac42/",
     icon: "🌟",
   },
 ] as const;
