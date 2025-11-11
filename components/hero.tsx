@@ -36,7 +36,7 @@ export default function Hero() {
                 <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
                   Hi, I&#39;m{" "}
                   <span className="bg-gradient-to-r from-blue-400 via-violet-400 to-blue-400 bg-clip-text text-transparent font-bold">
-                    Prem Prakash Sharma
+                    Priyanshu Sharma
                   </span>
                 </h1>
               </motion.div>
@@ -126,7 +126,7 @@ export default function Hero() {
               )}
               <Image 
                 src="/images/profile-image.png" 
-                alt="Prem Prakash Sharma" 
+                alt="Priyanshu Sharma" 
                 fill 
                 className={`object-cover transition-opacity duration-500 ${imageLoading ? 'opacity-0' : 'opacity-100'}`}
                 priority
