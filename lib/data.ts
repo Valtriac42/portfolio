@@ -64,6 +64,14 @@ export const projects = [
     icon: "📑",
   },
   {
+    title: "Simple Web Calculator",
+    description: "This is a solution to the Calculator app challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+    tags: ["Semantic HTML5 markup", "CSS custom properties", "Flexbox", "CSS Grid", "Desktop-first workflow", "JavaScript"],
+    github: "https://github.com/Valtriac42/Simple-Calculator",
+    demo: "https://simple-calculator42.netlify.app/",
+    icon: "🌟",
+  },
+  {
     title: "Portfolio Website",
     description: "Responsive portfolio website with modern animations, dark theme, and optimized performance built with Next.js.",
     tags: ["Next.js", "Framer Motion", "Tailwind CSS", "TypeScript", "Vercel"],
