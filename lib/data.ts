@@ -133,7 +133,7 @@ export const certificates = [
     institution: "Apna College",
     duration: "Issued: November 2023",
     description: "Completed comprehensive training on Data Structures and Algorithms using Java.",
-    link: "https://drive.google.com/file/d/1r50yTGzWOnhFn_M34douFWo38H2a-btg/view",
+    link: "https://drive.google.com/file/d/1pjfNmiDzv4zKTqrNHStoYttus1EtWSQi/view?usp=sharing",
     icon: FaCertificate,
   },
 ];
