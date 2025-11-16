@@ -9,7 +9,7 @@ export const experienceData = [
     description: [
       "Developed software modules using JPMorgan Chase internal tools and frameworks.",
     ],
-    date: "Oct 2024 - Present",
+    date: "July 2024 - August 2024",
   },
   {
     title: "Freelancer",
@@ -19,7 +19,7 @@ export const experienceData = [
       "Designed and Developed web applications using modern technologies like Next.js, TypeScript, and Tailwind CSS.",
       "Configured AWS services, such as EC2, S3, and Amplify, to streamline development and deployment processes.",
     ],
-    date: "Aug 2023 - Oct 2024",
+    date: "Aug 2023 - May 2024",
   },
 ] as const;
 
