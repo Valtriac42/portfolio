@@ -36,7 +36,7 @@ export const socialLinks = [
   },
   {
     label: "Email",
-    href: "priyanshusharma42v@gmail.com",
+    href: "mailto:priyanshusharma42v@gmail.com",
     icon: MdMail,
   },
   {
