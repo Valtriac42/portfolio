@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [https://portfolio-7dx6.vercel.app/](https://priyanshu.dev/)
+Visit the live portfolio: [https://priyanshu.dev/](https://portfolio-7dx6.vercel.app/)
 
 ## ✨ Features
 
