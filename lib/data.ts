@@ -3,11 +3,11 @@ import { MdMail } from "react-icons/md";
 
 export const experienceData = [
   {
-    title: "Software Developer",
-    company: "BigCircle",
-    location: "Gandhinagar, India",
+    title: "Software Engineer Intern",
+    company: "JPMorgan Chase & Co",
+    location: "Virtual",
     description: [
-      "Designed, Developed, and Maintained robust software applications, ensuring high performance and scalability.",
+      "Developed software modules using JPMorgan Chase internal tools and frameworks.",
     ],
     date: "Oct 2024 - Present",
   },
