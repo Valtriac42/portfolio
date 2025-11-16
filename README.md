@@ -38,7 +38,7 @@ Visit the live portfolio: [https://portfolio-7dx6.vercel.app/](https://priyanshu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PremPrakashCodes/portfolio.git
+   git clone https://github.com/Valtriac42/portfolio.git
    cd portfolio
    ```
 
