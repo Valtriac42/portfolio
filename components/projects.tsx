@@ -94,7 +94,7 @@ export default function Projects() {
                           transition={{ duration: 0.3 }}
                           className="p-2 rounded-full bg-white/[0.03] border border-white/10 hover:border-white/20"
                         >
-                          {/* <FaGithub className="w-4 h-4" /> */}
+                          <FaGithub className="w-4 h-4" />
                         </motion.div>
                         <span>View Source</span>
                       </Link>
