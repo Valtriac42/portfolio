@@ -88,7 +88,7 @@ export const certificates = [
     institution: "GitHub",
     duration: "Issued: March 2025",
     description: "Demonstrated proficiency in Git and GitHub by completing foundational training.",
-    link: "https://www.credly.com/badges/799557dd-ffee-4fdc-b489-21c8af85dba1/public_url",
+    link: "https://www.credly.com/badges/1447095f-0f11-4d00-b030-e6ef619beac1/linked_in_profile",
     icon: FaGithub,
   },
   // {
