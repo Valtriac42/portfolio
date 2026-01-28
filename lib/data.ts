@@ -160,7 +160,7 @@ type EducationItem = {
 export const educationData: EducationItem[] = [
   {
     id: 1,
-    title: "Bachelor of Bachelor of Technology in Computer Science",
+    title: "Bachelor of Technology in Computer Science",
     institution: "Abdul Kalam Technical University",
     duration: "2021 - 2025",
     description:
