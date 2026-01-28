@@ -2,6 +2,17 @@ import { FaCertificate, FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 import { MdMail } from "react-icons/md";
 
 export const experienceData = [
+
+
+  {
+    title: "AI Automation Developer",
+    company: "Tapovan Impex",
+    location: "Netaji Subhash Place",
+    description: [
+      "Gained hands-on exposure to AI automation workflows using n8n and experimented with PyTorch for basic AI model understanding",
+    ],
+    date: "Jan 2026 - Present",
+  },
   {
     title: "Software Engineer Intern",
     company: "JPMorgan Chase & Co",
